@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://openplotsforsale.netlify.app/sitemap.xml
